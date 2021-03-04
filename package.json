@@ -1,8 +1,9 @@
 {
-  "name": "flmnh-tailwind",
+  "name": "@flmnh-mgcl/ui-tailwind-config",
   "version": "1.0.0",
   "description": "Custom tailwind classes used in spesql",
   "main": "index.js",
+  "private": false,
   "license": "MIT",
   "author": "Aaron Leopold",
   "repository": {
