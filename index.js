@@ -85,6 +85,11 @@ module.exports = plugin(
     variants: {
       textShadow: ['responsive', 'hover', 'focus'],
     },
-    plugins: [require('tailwindcss-textshadow')],
+    plugins: [
+      require('tailwindcss-textshadow'),
+      require('@tailwindcss/forms'),
+      require('@tailwindcss/typography'),
+      require('@tailwindcss/aspect-ratio'),
+    ],
   }
 );
