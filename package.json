@@ -1,6 +1,6 @@
 {
   "name": "@flmnh-mgcl/ui-tailwind-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom tailwind classes used in spesql",
   "main": "index.js",
   "private": false,
