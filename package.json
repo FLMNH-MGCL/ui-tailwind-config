@@ -1,0 +1,24 @@
+{
+  "name": "flmnh-tailwind",
+  "version": "1.0.0",
+  "description": "Custom tailwind classes used in spesql",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Aaron Leopold",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FLMNH-MGCL/tailwind-config.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "bugs": {
+    "url": "https://github.com/FLMNH-MGCL/tailwind-config/issues"
+  },
+  "homepage": "https://github.com/FLMNH-MGCL/tailwind-config#readme",
+  "dependencies": {
+    "@tailwindcss/ui": "^0.7.2",
+    "tailwindcss": "^1.2.0",
+    "tailwindcss-textshadow": "^2.1.3"
+  }
+}
