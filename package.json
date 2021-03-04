@@ -7,15 +7,15 @@
   "author": "Aaron Leopold",
   "repository": {
     "type": "git",
-    "url": "git://github.com/FLMNH-MGCL/tailwind-config.git"
+    "url": "git://github.com/FLMNH-MGCL/ui-tailwind-config.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
   "bugs": {
-    "url": "https://github.com/FLMNH-MGCL/tailwind-config/issues"
+    "url": "https://github.com/FLMNH-MGCL/ui-tailwind-config/issues"
   },
-  "homepage": "https://github.com/FLMNH-MGCL/tailwind-config#readme",
+  "homepage": "https://github.com/FLMNH-MGCL/ui-tailwind-config#readme",
   "dependencies": {
     "@tailwindcss/ui": "^0.7.2",
     "tailwindcss": "^1.2.0",
